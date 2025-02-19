@@ -13,8 +13,7 @@ DOM-Based Attack Detection : Protects against modern client-side vulnerabilities
 Session Intelligence : Monitors user sessions in real-time, calculating risk scores to identify and terminate risky sessions automatically.
 Bayesian Risk Inference(Optional-Consulting) : Combines historical pattern analysis with Gen AI-based scoring to detect zero-day attacks and sophisticated threats.
 Bot Detection : Identifies and mitigates sophisticated bots t and automated browser attacks using Playwright/Selenium.
-Power BI Analytics(Part of consulting) : Offers detailed forensic data and real-time reporting for vulnerability analysis and incident response.
-Traffic-Prism is a natural upgrade path for 100,000+ ModSecurity installations , bringing them on par with market-leading WAFs while remaining fully open-source. We will have commercial support, generative AI module and power bi based advanced reporting for corporates who need support turnaround commitment.
+
 
 📜 License
 Traffic-Prism is licensed under dual license - Server Side Public License (SSPL) and Commerical one . SSPL license ensures that:
