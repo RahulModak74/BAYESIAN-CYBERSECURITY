@@ -2,7 +2,7 @@ Bayesian Traffic-Prism: Open-Source Web Security for All
 
 
 🌟 Vision
-At Bayeian Traffic-Prism , our mission is to democratize cybersecurity by providing enterprise grade open-source, transparent, and neutral tools that empower individuals, organizations, and governments to defend against evolving web-based threats. We believe that cybersecurity is a shared responsibility, and our platform bridges the gap between traditional WAFs and modern attack vectors like DOM-based XSS, session hijacking, and bot attacks.
+At Bayeian Traffic-Prism our vision is quality cybersecuirty should be free. Our mission is to democratize cybersecurity by providing enterprise grade open-source, transparent, and neutral tools that empower individuals, organizations, and governments to defend against evolving web-based threats. We believe that cybersecurity is a shared responsibility, and our platform bridges the gap between traditional WAFs and modern attack vectors like DOM-based XSS, session hijacking, and bot attacks.
 
 Our ultimate goal is to become the "Hugging Face of Cybersecurity" —a global, community-driven initiative that fosters collaboration, innovation, and trust in the fight against cybercrime.
 
@@ -21,7 +21,9 @@ Traffic-Prism is licensed under dual license - Server Side Public License (SSPL)
 Anyone can use, modify, and distribute the software freely.
 If you offer Traffic-Prism as a service (e.g., SaaS), you must also open-source your entire stack under the SSPL.
 This protects the platform from being used  without contributing back to the community.
-For more details, see the LICENSE file. For end users we don't foresee any major changes and will be offering a commercial license soon..
+For more details, see the LICENSE file. For end users we don't foresee any impact and rhey can freely use for their internal defenses.
+
+Even if you are a hosted website like wordpress you can still host and avail this platform to track bots and prevent DOM XSS attacks.
 
 
 🤝 How to Contribute
@@ -44,7 +46,6 @@ GitHub : The repository will be available soon—stay tuned!
 🏆 Acknowledgments
 We would like to thank the following:
 
-Microsoft Founder Program : For supporting our journey as a startup.
 Open-Source Community : For inspiring us to build transparent, community-driven tools.
 Early Adopters : For testing and providing feedback during the development phase.
 📈 Future Roadmap
