@@ -33,6 +33,15 @@ For more details, see the LICENSE file. For end users we don't foresee any impac
 
 Even if you are a hosted website like WordPress you can still host and avail this platform to track bots and prevent DOM XSS attacks.
 
+## 📋 Commercial Licensing
+For organizations requiring:
+- Custom implementations
+- Commercial support options
+- Alternative licensing terms
+- Enterprise features
+
+Please contact us at pbi@bayesiananalytics.in to discuss commercial licensing options.
+
 ## 🤝 How to Contribute
 We welcome contributions from developers, researchers, and cybersecurity professionals worldwide! Here's how you can help:
 
