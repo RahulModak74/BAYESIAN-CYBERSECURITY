@@ -4,7 +4,31 @@
 Traffic-Prism is provided "as is" without any warranties, express or implied. By using this software, you acknowledge that you are doing so at your own risk. The developers and contributors are not responsible for any damage or liability arising from the use of this software. See LICENSE.txt for complete disclaimer details.
 
 ## 🌟 Vision
-At Bayesian Traffic-Prism our vision is quality cybersecurity should be free. Our mission is to democratize cybersecurity by providing enterprise grade open-source, transparent, and neutral tools that empower individuals, organizations, and governments to defend against evolving web-based threats. We believe that cybersecurity is a shared responsibility, and our platform bridges the gap between traditional WAFs and modern attack vectors like DOM-based XSS, session hijacking, and bot attacks.
+At Bayesian Traffic-Prism our vision is quality cybersecurity should be free. Our mission is to democratize cybersecurity by providing enterprise grade open-source, transparent, and neutral tools that empower individuals, organizations, and governments to defend against evolving cyber  threats. 
+
+Our Architectural Innovation
+
+Unlike most open source projects trying to opensource watered-down commercial products, we're taking a top-down approach:
+
+• Open sourcing features even commercial products don't offer 
+
+• For WAF: Session intelligence 
+
+• For EDR: Slow moving attack detection (Pl see EDR folder in this repo)
+
+Our architecture introduces an OLAP layer based on ClickHouse with significant impact:
+
+• Central cybersecurity hub storing years of telemetry across thousands of devices
+
+ • Sub-second analysis capabilities 
+
+• Vendor-agnostic: Add Cisco/Juniper network switch/router telemetry by writing telemetry agents 
+
+• Continuous or interval-based telemetry collection
+
+ • Remediation through vendor tools/APIs like Defender for Windows or socket.io for WAF
+
+We believe that cybersecurity is a shared responsibility, and our platform bridges the gap between traditional WAFs and modern attack vectors like DOM-based XSS, session hijacking, and bot attacks.
 
 Our ultimate goal is to become the "Hugging Face of Cybersecurity" —a global, community-driven initiative that fosters collaboration, innovation, and trust in the fight against cybercrime.
 
